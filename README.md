@@ -3,7 +3,7 @@ usages:
 for strip.py:
 用来提取csv的数据的，在terminal里这样使用：
     - 将GPS文件夹放在与该文件统一文件夹下
-    - python3 strip.py [ 日期 ] [ 时间 ] > [ 输出文件 ]
+    - python3 strip.py [ 日期 ] [ 时间 ]
         - 命令行注意空格， 不然会报错
     - 输出文件会保存在./txts中，请确保先建立该文件夹，不然会报错
 
