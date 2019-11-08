@@ -3,7 +3,8 @@ import sys
 latitude_list = []
 longitude_list = []
 
-tracefile = open(sys.argv[1],'r+')
+the_file = sys.argv[1]+".txt"
+tracefile = open(the_file,'r+')
 
 for line in tracefile:
     sp = line.split(',')
@@ -29,7 +30,7 @@ gmap3.scatter( latitude_list, longitude_list, '# FF0000',
 gmap3.plot(latitude_list, longitude_list,  
            'cornflowerblue', edge_width = 2.5) 
   
-gmap3.draw(sys.argv[2])
+gmap3.draw("./GPSMAP/10"+str(sys.argv[1])+".html")
 
 '''
 
