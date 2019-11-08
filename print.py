@@ -3,7 +3,7 @@ import sys
 latitude_list = []
 longitude_list = []
 
-the_file = sys.argv[1]+".txt"
+the_file = "./txts/"+sys.argv[1]+".txt"
 tracefile = open(the_file,'r+')
 
 for line in tracefile:

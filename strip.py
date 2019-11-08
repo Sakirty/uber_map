@@ -3,7 +3,7 @@ import sys
 input_str = "./gps/2019-10-" +sys.argv[1]+" "+sys.argv[2]+"_00_00.csv"
 #print(input_str)
 #f = open("demofile2.txt", "a")
-file_name = sys.argv[1]+sys.argv[2]+".txt"
+file_name = "./txts/"+sys.argv[1]+sys.argv[2]+".txt"
 file_f = open(file_name, "a")
 
 tracefile = open(input_str,'r+')
