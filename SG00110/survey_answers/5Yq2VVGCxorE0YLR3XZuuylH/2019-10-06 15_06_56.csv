@@ -1,0 +1,10 @@
+question id,question type,question text,question answer options,answer
+cdcf40fe-a865-47d3-baec-275275794db5,info_text_box,Additional Question for Study Participants - Every Month,,
+0d1194b8-b708-46c7-a9d6-376351ac0883,info_text_box,We are interested in the various ways people might be using the Uber credits we have provided to improve their lives or help their families.  In the past month; did you use your Uber credits to do any of the following:,,
+b3dd90e4-86da-472a-b5b6-457871b84664,radio_button,Travel to a training center or community college to receive training or instruction,[Yes;No],No
+37d1dbb5-f59f-4a7e-fd85-8d5c5a5ddcae,radio_button,Travel to court or to appear before a judge in any legal proceedings,[Yes;No],No
+8a22f544-bced-4d2a-b766-093942fcb509,radio_button,Bring yourself or your children to a doctor; nurse; hospital; or clinic to receive medical or psychological care,[Yes;No],Yes
+537b0ccc-d931-43d1-c364-48b9fb7f1dc6,radio_button,Travel outside your neighborhood to purchase food; clothing; or other items for yourself or your family,[Yes;No],Yes
+236c5b4a-93f5-4574-82e1-48341478be9a,radio_button,Take your children to parks; community events; or other activities outside your immediate neighborhood,[Yes;No],Yes
+1d01fbed-3553-4309-faa0-e4bda031df0d,free_response,If you have used your Uber credits in another way that has helped you or your family; please describe it below.,Text-field input type = MULTI_LINE_TEXT,The Uber credits helps me get groceries home without having to walk such a long way
+54fc133f-19c5-4d3f-b861-cd315dc7c8f7,info_text_box,Thank you for participating in this survey!,,

@@ -1,0 +1,2 @@
+timestamp,UTC time,patient_id,MAC,phone_number,device_id,device_os,os_version,product,brand,hardware_id,manufacturer,model,beiwe_version
+1570374049000,2019-10-06T15:00:49.000,SG00110,none,NOT_SUPPLIED,57C258B8-692C-42CB-B38C-D65A2FEBE93D,iOS,12.1.3,iPhone,apple,none,apple,iPhone8,1,1

@@ -1,0 +1,15 @@
+question id,question type,question text,question answer options,answer
+2c2d898c-b24c-411a-fdb3-1822ba591eca,info_text_box,Survey Given at the End of Each Month   Thank you for participating in this survey. The survey should take you less than 10 minutes to complete.  We will send $10 to you shortly after you complete this survey.,,
+2b9141d5-cb03-43d1-a5af-595e3c041508,radio_button,During the previous four weeks did you do any work for pay?,[Yes;No],No
+62bebb57-ef0a-4954-9d08-6e8adff872f3,radio_button,Did you work for more than one employer?,[Yes;No],NOT_PRESENTED
+ca994721-b961-4ba1-e90a-010046269dda,free_response,Please type the name and address of the single employer (for example; Giant Eagle at 5550 Centre Avenue; Pittsburgh; PA 15232),Text-field input type = MULTI_LINE_TEXT,NOT_PRESENTED
+92935be0-04d4-448a-9fea-acdebfc765c1,free_response,Please type the name and location of all employers for which you worked at least 5 hours per week (for example; Giant Eagle at 5550 Centre Avenue; Pittsburgh; PA 15232 and Starbucks at 2345 Murray Avenue; Pittsburgh; PA 15217).,Text-field input type = MULTI_LINE_TEXT,NOT_PRESENTED
+bfa6a00a-fbf9-445d-829d-e2af31a3e52e,radio_button,How many weeks did you work during the previous four weeks?,[1;2;3;4],NOT_PRESENTED
+fc9af629-c47d-4b1b-b580-3fe2a648d3e6,free_response,How many hours per week did you typically work? (Enter exact number of hours,Text-field input type = NUMERIC,NOT_PRESENTED
+bcbfd80b-b32c-46fd-cc67-08aeb6d32608,free_response,What is your best estimate of your hourly rate of pay? (Enter exact number),Text-field input type = NUMERIC,NOT_PRESENTED
+4a7149a1-9192-49ec-c961-fa793d55a4c1,checkbox,During the previous four weeks; how did you commute to work? Check all that apply:,[Drive my own car;Carpool;Walk;Public transport;Bicycle;Uber],NOT_PRESENTED
+fe3c7b46-a4b8-4a80-e408-71ba08b555e0,checkbox,Please think carefully about your work JUST LAST WEEK.  Please select each day you went to work,[Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturday],NOT_PRESENTED
+a3aa36c7-b119-42d3-ef5d-dcc36c2f9ad2,radio_button,On the days you worked last week; about how long did it take you to get to and from work (combined) each day?,[Less than 30 minutes per day;30 minutes to 1 hour per day;1 – 2 hours per day;More than 2 hours per day],NOT_PRESENTED
+650efbb9-6934-4576-8021-5c25c7ce999b,free_response,When was the last time you did work for pay; either full time or part time? Enter month/year.,Text-field input type = SINGLE_LINE_TEXT,August 2019
+4dcd9472-01bf-463e-abaf-ad8481ae1980,radio_button,Are you looking for work; either full time or part time?,[Yes;No],Yes
+faa9f032-de71-45cd-ad9e-240a994ee47a,info_text_box,Thank you for participating in this survey!,,

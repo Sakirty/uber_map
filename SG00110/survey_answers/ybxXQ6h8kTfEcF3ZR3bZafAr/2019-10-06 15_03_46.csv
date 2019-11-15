@@ -1,0 +1,11 @@
+question id,question type,question text,question answer options,answer
+6bc75431-2392-4e19-b0d9-6f5a07b131bb,info_text_box,Additional Questions for the Final Month,,
+718f61ae-4c6f-4ce5-e7b9-998b6e6ea67a,radio_button,Did access to Uber credits help you find a new or better job?,[Yes;Maybe;No],Yes
+d5c36c38-336d-49a9-e59d-723b9a8161f0,radio_button,“Did the job search function of this app help you find work; career counseling or training?,[Yes;No],Yes
+8f35d421-2a35-4cf9-d95d-5970ea0ab186,radio_button,Did access to Uber credits help you work more hours than you could have worked otherwise?,[Yes;No],Yes
+de7be8e5-3afc-4953-9d72-addb7580d0ed,free_response,Did access to Uber credits help your family in other ways?  Please comment below,Text-field input type = MULTI_LINE_TEXT,Helped me get my son to daycare and not have to walk an hour just to get to the bus
+cb19c1d8-4bc2-48fc-e45e-9fc980f61cc9,radio_button,What was the most important thing that participating in this study helped you with?,[Ability to search for a better job outside my neighborhood;Ability to work more or different hours on my job;Better commute/access to my current job;Better access to training;Better access to health care;Better access to other social services;Other],Better commute/access to my current job
+a38b6a04-b2eb-40b5-f5cc-a01a5b10cc35,free_response,Please specify,Text-field input type = MULTI_LINE_TEXT,NOT_PRESENTED
+381fec96-2649-4b3e-b7a4-c9a1e3e53560,radio_button,Did the “find route” function of this app help you to make the most out of your Uber credits by combining Uber and other transit options?,[Yes;No],Yes
+7413b379-075a-4040-af15-efde7f1d65cd,radio_button,State and local governments provide financial assistance for qualified residents to carpool or “vanpool” to work.  These programs can enable those without their own cars to commute to work more easily.  Are you interested in finding out more about this program?,[Yes;No],Yes
+16f14866-c43d-4417-8377-7a3064616baa,info_text_box,Thank you for participating in our study!,,

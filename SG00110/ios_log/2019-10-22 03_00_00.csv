@@ -1,0 +1,5 @@
+timestamp,UTC time,launchId,memory,battery,event,msg,d1,d2,d3,d4
+1571715320398,2019-10-22T03:35:20.398,1571715313130,37,-1.0,launch,Application launch,location,1,,0
+1571715320410,2019-10-22T03:35:20.410,1571715313130,37,-1.0,file_init,Init new data file,SG00110_gps_1571715320409,false,,1
+1571715320410,2019-10-22T03:35:20.410,1571715313130,37,-1.0,file_init,Init new data file,SG00110_powerState_1571715320410,false,,2
+1571715320412,2019-10-22T03:35:20.412,1571715313130,37,-1.0,set_timer,Set timer for 1.0 seconds,1.0,,,3

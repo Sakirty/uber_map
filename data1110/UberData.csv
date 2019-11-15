@@ -1,0 +1,40 @@
+﻿Trip/Eats ID,Request Date (Local),Request Time (Local),Drop-off Date (Local),Drop-off Time (Local),UserID,City,Distance (mi),Duration (min),Pickup Address,Drop-off Address,Fare in Local Currency (excl. Taxes)
+c151c274-2c5b-49d6-9e5b-d4941631e192,10/12/2019,12:29PM,10/12/2019,12:49PM,SG00124,Pittsburgh,2.8,5,"401 Hulton Rd, Verona, PA 15147, USA","324 Hulton Rd, Oakmont, PA 15139, USA",8.09
+1fb0ff52-9f38-4feb-90cc-04ed4f33a660,10/12/2019,2:55PM,10/12/2019,3:15PM,SG00124,Pittsburgh,4.71,13,"70 Allegheny River Blvd, Verona, PA 15147, USA","401 Hulton Rd, Verona, PA 15147, USA",12.11
+b1dfcb80-b2fe-4189-a228-e4fc44106eb0,10/18/2019,12:58PM,10/18/2019,1:44PM,SG00124,Pittsburgh,16.32,28,"401 Hulton Rd, Verona, PA 15147, USA","1316 Western Ave, Pittsburgh, PA 15233, USA",27.26
+04b1c768-4570-407b-8d5c-1f7dded81b79,10/18/2019,4:39PM,10/18/2019,5:26PM,SG00124,Pittsburgh,14.65,38,"1316 Western Ave, Pittsburgh, PA 15233, USA","833 Allegheny Ave, Oakmont, PA 15139, USA",32.14
+dd8bc8a6-98a8-4485-892d-053ccbe7dc6f,10/18/2019,5:47PM,10/18/2019,6:03PM,SG00124,Pittsburgh,2.87,6,"840 Allegheny River Blvd, Oakmont, PA 15139, USA","401 Hulton Rd, Verona, PA 15147, USA",14.51
+6c28bdbf-f8f5-4763-9425-b70666e291c7,10/19/2019,3:40PM,10/19/2019,4:28PM,SG00124,Pittsburgh,13.11,33,"401 Hulton Rd, Verona, PA 15147, USA","101 Mall Plaza Blvd, Monroeville, PA 15146, USA",26.15
+57be8eb1-fcc9-4cde-95e7-b6033334d65b,10/19/2019,8:46PM,10/19/2019,9:20PM,SG00124,Pittsburgh,16.86,24,"101 Mall Plaza Blvd, Monroeville, PA 15146, USA","401 Hulton Rd, Verona, PA 15147, USA",18.3
+af3fcefd-e181-49f8-90dd-a453df069938,10/20/2019,11:43AM,10/20/2019,12:44PM,SG00124,Pittsburgh,16.2,26,"401 Hulton Rd, Verona, PA 15147, USA","1330 Western Ave, Pittsburgh, PA 15233, USA",25.27
+72d14e2f-e873-4120-b45c-f9ac9cae4634,10/20/2019,6:02PM,10/20/2019,6:23PM,SG00124,Pittsburgh,2.62,6,"840 Allegheny River Blvd, Oakmont, PA 15139, USA","401 Hulton Rd, Verona, PA 15147, USA",10.11
+fb6dd68f-93ef-4d73-bb4d-128f09785a33,10/21/2019,12:23PM,10/21/2019,1:13PM,SG00124,Pittsburgh,17.76,27,"401 Hulton Rd, Verona, PA 15147, USA","300 Halket St, Pittsburgh, PA 15213, USA",29.9
+72cd9877-bce1-49d0-8c41-75d7b38ffc60,10/21/2019,7:04PM,10/21/2019,7:15PM,SG00124,Pittsburgh,2.74,8,"324 Hulton Rd, Oakmont, PA 15139, USA","401 Hulton Rd, Verona, PA 15147, USA",8.93
+6f1df394-1848-4ff2-a72a-e6002a974447,10/22/2019,10:03PM,10/22/2019,10:19PM,SG00124,Pittsburgh,2.74,6,"324 Hulton Rd, Oakmont, PA 15139, USA","401 Hulton Rd, Verona, PA 15147, USA",8.85
+c799b7ff-2e35-4e19-9d06-e8887fc8841e,11/1/2019,10:09AM,11/1/2019,11:08AM,SG00124,Pittsburgh,15.95,41,"401 Hulton Rd, Verona, PA 15147, USA","326 Fifth Ave, Pittsburgh, PA 15222, USA",33.53
+1888bca8-4c30-448a-8b80-a521103c362c,11/1/2019,8:53PM,11/1/2019,9:11PM,SG00124,Pittsburgh,3.09,8,"324 Hulton Rd, Oakmont, PA 15139, USA","401 Hulton Rd, Verona, PA 15147, USA",9.84
+2794e61f-7416-4ac1-b240-ff092118d4be,11/2/2019,1:30PM,11/2/2019,2:22PM,SG00124,Pittsburgh,14.09,30,"401 Hulton Rd, Verona, PA 15147, USA","4764 Liberty Ave, Pittsburgh, PA 15224, USA",20.54
+813e11c1-e307-429d-9d8f-44eab2058cb2,11/2/2019,2:59PM,11/2/2019,3:16PM,SG00124,Pittsburgh,3.75,13,"4772 Liberty Ave, Pittsburgh, PA 15224, USA","530 William Penn Pl, Pittsburgh, PA 15219, USA",16.26
+e35b1940-730d-44d5-b570-d1e66dc19a8e,11/3/2019,12:38AM,11/3/2019,12:56AM,SG00124,Pittsburgh,7.77,13,"Pittsburgh, PA 15238, USA","401 Hulton Rd, Verona, PA 15147, USA",15.51
+5307c828-e0de-49ab-81ee-877d22ec80a9,11/3/2019,7:08AM,11/3/2019,7:49AM,SG00124,Pittsburgh,16.6,24,"401 Hulton Rd, Verona, PA 15147, USA","763 Allegheny Ave, Pittsburgh, PA 15233, USA",30.17
+f25409b0-e0ee-4b0c-bf71-fcfa57780141,11/3/2019,10:36AM,11/3/2019,11:01AM,SG00124,Pittsburgh,14.99,21,"1330 Western Ave, Pittsburgh, PA 15233, USA","3770 William Penn Hwy, Monroeville, PA 15146, USA",26.05
+f7221461-a4dd-44ab-b204-24b53a6946f5,11/3/2019,6:37PM,11/3/2019,7:04PM,SG00124,Pittsburgh,12.31,23,"3776 William Penn Hwy, Monroeville, PA 15146, USA","401 Hulton Rd, Verona, PA 15147, USA",21.27
+bd3a721c-fb8f-40dd-951f-7cc4d5a0520d,11/4/2019,7:41PM,11/4/2019,8:09PM,SG00124,Pittsburgh,4.89,13,"401 Hulton Rd, Verona, PA 15147, USA","Giant Eagle, 200 Allegheny River Blvd, Verona, PA 15147, USA",14.52
+383c1ef7-e120-40e4-9b12-1c6313522be6,11/4/2019,8:47PM,11/4/2019,9:11PM,SG00124,Pittsburgh,4.63,12,"Giant Eagle, 200 Allegheny River Blvd, Verona, PA 15147, USA","401 Hulton Rd, Verona, PA 15147, USA",12.32
+c8a08305-9b82-42a8-ab78-65a2351fe875,11/7/2019,7:50PM,11/7/2019,8:34PM,SG00124,Pittsburgh,16.72,39,"1720 Greensburg Pike, North Versailles, PA 15137, USA","401 Hulton Rd, Verona, PA 15147, USA",31.56
+c8a08305-9b82-42a8-ab78-65a2351fe875,11/7/2019,7:50PM,11/7/2019,8:34PM,SG00124,Pittsburgh,16.72,39,"1720 Greensburg Pike, North Versailles, PA 15137, USA","401 Hulton Rd, Verona, PA 15147, USA",-9.76
+cf42ea54-5f53-4dd5-a787-5b356c9e2f33,11/8/2019,12:19PM,11/8/2019,12:40PM,SG00124,Pittsburgh,3.32,10,"401 Hulton Rd, Verona, PA 15147, USA","310 Allegheny River Blvd, Oakmont, PA 15139, USA",7.04
+f899f142-771a-4d3c-8ffd-1fafc9467019,11/8/2019,8:37PM,11/8/2019,8:55PM,SG00124,Pittsburgh,4.65,12,"168 Allegheny River Blvd, Verona, PA 15147, USA","401 Hulton Rd, Verona, PA 15147, USA",13.61
+78483aa2-73d2-4f21-8072-cb5cf7924569,10/12/2019,1:14PM,10/12/2019,1:47PM,SG00110,Pittsburgh,15.15,26,"815 Arbor Ln, Verona, PA 15147, USA","1400 Smallman St, Pittsburgh, PA 15222, USA",21.02
+24f37458-0c68-4874-9436-f5dfcb449723,10/12/2019,3:56PM,10/12/2019,4:21PM,SG00110,Pittsburgh,8.35,20,"2810 Robinson Blvd, Penn Hills, PA 15235, USA","815 Arbor Ln, Verona, PA 15147, USA",16.11
+9cc61a3b-ef88-48d6-b6a5-c7030a9bb5a5,10/13/2019,8:56PM,10/13/2019,9:18PM,SG00110,Pittsburgh,2.79,7,"815 Arbor Ln, Verona, PA 15147, USA","303 Hulton Rd, Oakmont, PA 15139, USA",9.65
+fdbff717-c438-4be2-9690-de83dab9b112,10/14/2019,6:10AM,10/14/2019,6:35AM,SG00110,Pittsburgh,2.82,8,"303 Hulton Rd, Oakmont, PA 15139, USA","815 Arbor Ln, Verona, PA 15147, USA",11.68
+879f888a-5dfb-4a40-88df-bfc8c4db8d49,11/7/2019,7:56PM,11/7/2019,8:03PM,SG00110,Pittsburgh,0.42,1,"5125 Blair St, Pittsburgh, PA 15207, USA","Pittsburgh, PA 15207, USA",8
+dd1d67b8-6f82-4749-9488-2f87480e3ad6,11/7/2019,8:07PM,11/7/2019,9:04PM,SG00110,Pittsburgh,16.63,40,"5124 Blair St, Pittsburgh, PA 15207, USA","815 Arbor Ln, Verona, PA 15147, USA",30.51
+df71b35c-9a95-40b7-a6bc-c9db1f9689fc,11/8/2019,7:33AM,11/8/2019,8:45AM,SG00110,Pittsburgh,0.04,11,"3420 Euler Way, Pittsburgh, PA 15213, USA","3423 Forbes Ave, Pittsburgh, PA 15213, USA",9.73
+df71b35c-9a95-40b7-a6bc-c9db1f9689fc,11/8/2019,7:33AM,11/8/2019,8:45AM,SG00110,Pittsburgh,0.04,11,"3420 Euler Way, Pittsburgh, PA 15213, USA","3423 Forbes Ave, Pittsburgh, PA 15213, USA",21.37
+de07b103-c59c-46a4-97c5-23eb381de4e1,11/8/2019,3:33PM,11/8/2019,4:17PM,SG00110,Pittsburgh,12.93,37,"5132 Blair St, Pittsburgh, PA 15207, USA","168 Allegheny River Blvd, Verona, PA 15147, USA",25.8
+0dea051f-2976-4d55-a302-b111b74f42bf,11/8/2019,4:42PM,11/8/2019,5:16PM,SG00110,Pittsburgh,4.82,14,"Giant Eagle, 200 Allegheny River Blvd, Verona, PA 15147, USA","815 Arbor Ln, Verona, PA 15147, USA",14.39
+db28ae1f-a927-4b95-9133-4feb0dd5cf57,11/10/2019,12:26PM,11/10/2019,1:15PM,SG00110,Pittsburgh,20.4,35,"815 Arbor Ln, Verona, PA 15147, USA","5128 Blair St, Pittsburgh, PA 15207, USA",33.79
+26123af8-3afd-4b3a-95f3-55e1b5ec8f44,11/10/2019,4:28PM,11/10/2019,5:19PM,SG00110,Pittsburgh,20.38,32,"5132 Blair St, Pittsburgh, PA 15207, USA","815 Arbor Ln, Verona, PA 15147, USA",33.57
+22cb77ca-695b-4126-a700-94842a0cf0ea,11/11/2019,9:23AM,11/11/2019,10:02AM,SG00110,Pittsburgh,7.79,20,"815 Arbor Ln, Verona, PA 15147, USA","Penn Hills, PA 15147, USA",15.42

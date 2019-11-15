@@ -1,0 +1,18 @@
+question id,question type,question text,question answer options,answer
+23ee4070-afa2-4f70-c0f9-cadf619a2a29,info_text_box,Survey for App Testers Thank you for participating in this survey. The survey should take you less than 10 minutes to complete.,,
+1f5bc1fc-3fdd-44ce-87e5-368be077fe76,radio_button,Did you experience more rapid battery use or significant data charges when our study app was on your phone?,[Yes;No],No
+f5f54094-d7d7-4e20-fc1b-d3e71781d5ac,free_response,What percentage decline in battery performance did you experience?,Text-field input type = SINGLE_LINE_TEXT,NOT_PRESENTED
+99e29595-8b1f-4724-95b5-ff658578bb17,free_response,What was the dollar amount of additional data charges?,Text-field input type = SINGLE_LINE_TEXT,NOT_PRESENTED
+0f3193c1-5d92-4e32-b652-254eb2c3dfeb,radio_button,Did you complete the “monthly survey”?,[Yes;No],Yes
+ae802c16-7568-49d9-c8de-eb460f463f9b,radio_button,Was the survey reasonably easy to fill out and submit?,[Yes;No],Yes
+00830cc6-7ff3-4123-caeb-11160527dd21,radio_button,Do you think the survey would be easy to use for lower-income mothers in Pittsburgh?,[Yes;No],Yes
+ddb6bde5-2357-49ff-8195-b0013bf1d5bb,radio_button,How long did the survey take?,[Less than 5 minutes;5-10 minutes;10-20 minutes;20-30 minutes;More than 30 minutes],Less than 5 minutes
+2593c31c-7536-4100-b4be-67b647ce167d,radio_button,Did you use the app to compare the times and fares of Uber and bus rides with “hybrid rides” that combined Uber and public transportation?,[Yes;No],Yes
+ddd3985b-eb3a-4771-91db-d485b98a3359,radio_button,Did this app provide useful guidance?,[Yes;No],Yes
+3208d17f-3279-4a2e-d8b4-6f85ba8938a7,radio_button,Did you attempt to use the job search tool?,[Yes;No],No
+515ea960-d989-40d4-c775-29074fef103b,free_response,Please comment on your user experience,Text-field input type = MULTI_LINE_TEXT,NOT_PRESENTED
+930d0312-c810-4d04-fb48-62561d92d3b9,radio_button,Did the overall user interface/user experience work well; given the device you used to access the job search tool?,[Yes;No],NOT_PRESENTED
+b403fe78-2bee-466f-d440-cc43f1de06d7,radio_button,Were the available tutorials helpful?,[Yes;No],NOT_PRESENTED
+188080d2-9eae-4ad3-8914-ff64cdf4fee6,radio_button,Did you use the “personalized career advice” option; and did that feature work well?,[Yes;No],NOT_PRESENTED
+6e676a15-6147-43c7-98a1-fcbf0271875c,free_response,Please comment on any other features of our study app; positive or negative; that stand out in your experience,Text-field input type = MULTI_LINE_TEXT,Well I found out that I had to find a closer job cause the 200 would run out within a week
+555afdf9-3163-4168-91d5-c9670316404c,info_text_box,Thank you for participating in this survey!,,
